@@ -1,2 +1,2 @@
 # macroexcel
-Busca numero y serie adicional de un boleto de loteria, dentro de una mezcla de numeros
+La macro consiste en buscar un numero y serie adicional a partir de un numero y serie de un boleto de loteria, buscandolo en una mezcla de numeros. Ambos libros deben estar abiertos.
